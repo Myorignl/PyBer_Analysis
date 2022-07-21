@@ -39,7 +39,7 @@ Urban  cities have four times moredrivers than the suberban and suberban has mor
 
 The line graph shows spikes in fares during April for the Rural areas and a decline in fares for the same time frame in suburban areas.  
 
-###Recomendations 
+### Recomendations 
 
 - Include population in next report to help assess the number of drivers per capita per'se
 - My suggestion to better service the area is to reassign drivers from the suburban areas to the rural during April to better service these areas. 
